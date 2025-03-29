@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://guyycodes.github.io/Promises-vs.-Policies-The-Rhetoric-Action-Gap-in-Key-United-States-Domestic-Issues/sitemap.xml
